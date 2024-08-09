@@ -20,7 +20,7 @@ The dataset used for this project is sourced from Kaggle. It contains various fe
 ### How to Run
 
 ### Clone this repository:
-git clone https://github.com/yourusername/credit-card-fraud-detection-knn.git
+https://github.com/Fatimshaikh/Credit-card-fraud-detection-using-knn.git
 
 ### Navigate to the project directory:
 cd credit-card-fraud-detection-knn
